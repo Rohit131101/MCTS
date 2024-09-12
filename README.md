@@ -1,4 +1,4 @@
-# Reinforcment_learning_algorithm
+# MCTS
 # Tic-Tac-Toe with MCTS AI
 A Python implementation of the classic Tic-Tac-Toe game with a Monte Carlo Tree Search (MCTS) AI opponent.
 # Game Description
